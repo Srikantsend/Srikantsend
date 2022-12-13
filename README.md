@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srikantasend
 - 👀 I’m interested in dancing,singing and playing valley
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...java,Oracle and html
+- 🌱 I’m currently doing a job 
+- 💞️ I’m looking to collaborate on ...java,Oracle and Selenium
 - 📫 DevilSiku is my instagram account to reach me
 
 <!---
